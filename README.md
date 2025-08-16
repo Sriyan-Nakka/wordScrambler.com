@@ -2,6 +2,10 @@
 
 Word Scrambler is a website where you can scramble a given word for your needs!
 
+### Favicon:
+
+[Favicon](favicon.png)
+
 <hr>
 
 Also, check out my Blog at https://www.sriyansites.mywire.org
