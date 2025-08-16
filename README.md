@@ -4,7 +4,7 @@ Word Scrambler is a website where you can scramble a given word for your needs!
 
 ### Favicon:
 
-[Favicon](favicon.png)
+![Favicon](favicon.png)
 
 <hr>
 
